@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <img align="center"  src="https://weilianbao.oss-cn-hangzhou.aliyuncs.com/image/log.svg" alt="hello world" />
+</div>
 
-<!--
-**xxyu98/xxyu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxyu98&show_icons=true&theme=ambient_gradient" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxyu98&layout=compact&theme=ambient_gradient" alt="Top Languages" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> Hi! Nice to meet you! 👋</h2>
+
+- 👨🏼‍💻 I’m a 🐮🐴 coder
+- 🌞 I enjoy life！
+- 📫 How to reach me? Email: 2439325841@qq.com
